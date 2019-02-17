@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/scerp/!svn/ver/358/frontweb/config
+END
+dev.env.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/scerp/!svn/ver/2/frontweb/config/dev.env.js
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/scerp/!svn/ver/358/frontweb/config/index.js
+END
+prod.env.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/scerp/!svn/ver/2/frontweb/config/prod.env.js
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/scerp/!svn/ver/1217/frontweb/src/sc_page/customer/main
+END
+customer_base.vue
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/scerp/!svn/ver/1206/frontweb/src/sc_page/customer/main/customer_base.vue
+END
+customer_consignee.vue
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/scerp/!svn/ver/1127/frontweb/src/sc_page/customer/main/customer_consignee.vue
+END
+customer_info.vue
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/scerp/!svn/ver/1206/frontweb/src/sc_page/customer/main/customer_info.vue
+END
+customer_list.vue
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/scerp/!svn/ver/1217/frontweb/src/sc_page/customer/main/customer_list.vue
+END
+customer_invoice.vue
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/scerp/!svn/ver/1127/frontweb/src/sc_page/customer/main/customer_invoice.vue
+END
+customer_trade.vue
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/scerp/!svn/ver/1127/frontweb/src/sc_page/customer/main/customer_trade.vue
+END

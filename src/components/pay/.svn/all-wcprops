@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/scerp/!svn/ver/1171/frontweb/src/components/pay
+END
+addPay.vue
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/scerp/!svn/ver/2/frontweb/src/components/pay/addPay.vue
+END
+modifyInvoice.vue
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/scerp/!svn/ver/1171/frontweb/src/components/pay/modifyInvoice.vue
+END
+addInvoice.vue
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/scerp/!svn/ver/1171/frontweb/src/components/pay/addInvoice.vue
+END
+payConfirm.vue
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/scerp/!svn/ver/2/frontweb/src/components/pay/payConfirm.vue
+END
+invoiceInfo.vue
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/scerp/!svn/ver/1171/frontweb/src/components/pay/invoiceInfo.vue
+END
+pay.vue
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/scerp/!svn/ver/2/frontweb/src/components/pay/pay.vue
+END

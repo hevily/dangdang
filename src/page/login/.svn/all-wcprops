@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/scerp/!svn/ver/1163/frontweb/src/page/login
+END
+register.vue
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/scerp/!svn/ver/1126/frontweb/src/page/login/register.vue
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/scerp/!svn/ver/765/frontweb/src/page/login/.project
+END
+login.vue
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/scerp/!svn/ver/1163/frontweb/src/page/login/login.vue
+END
+loginTel.vue
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/scerp/!svn/ver/835/frontweb/src/page/login/loginTel.vue
+END
+scanCode.vue
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/scerp/!svn/ver/842/frontweb/src/page/login/scanCode.vue
+END

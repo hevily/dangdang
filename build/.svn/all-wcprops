@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/scerp/!svn/ver/362/frontweb/build
+END
+vue-loader.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/scerp/!svn/ver/2/frontweb/build/vue-loader.conf.js
+END
+webpack.base.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/scerp/!svn/ver/320/frontweb/build/webpack.base.conf.js
+END
+dev-client.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/scerp/!svn/ver/2/frontweb/build/dev-client.js
+END
+webpack.dev.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/scerp/!svn/ver/2/frontweb/build/webpack.dev.conf.js
+END
+webpack.test.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/scerp/!svn/ver/2/frontweb/build/webpack.test.conf.js
+END
+build.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/scerp/!svn/ver/2/frontweb/build/build.js
+END
+utils.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/scerp/!svn/ver/358/frontweb/build/utils.js
+END
+webpack.config.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/scerp/!svn/ver/362/frontweb/build/webpack.config.js
+END
+dev-server.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/scerp/!svn/ver/2/frontweb/build/dev-server.js
+END
+check-versions.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/scerp/!svn/ver/2/frontweb/build/check-versions.js
+END
+webpack.prod.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/scerp/!svn/ver/348/frontweb/build/webpack.prod.conf.js
+END
